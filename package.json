@@ -1,12 +1,19 @@
 {
   "name": "set-up-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Set up template for Node + Typescript projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldofiore28/node-ts-set-up.git"
+  },
+  "author": "Aldo Fiore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aldofiore28/node-ts-set-up/issues"
+  },
+  "homepage": "https://github.com/aldofiore28/node-ts-set-up#readme"
 }
