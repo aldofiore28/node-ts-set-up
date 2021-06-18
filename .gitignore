@@ -1,0 +1,10 @@
+node_modules
+build
+coverage
+.nyc_output
+.history
+.idea
+.env
+.DS_Store
+secret.json
+.vscode

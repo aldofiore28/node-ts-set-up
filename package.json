@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aldofiore28/node-ts-set-up/issues"
   },
-  "homepage": "https://github.com/aldofiore28/node-ts-set-up#readme"
+  "homepage": "https://github.com/aldofiore28/node-ts-set-up#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
 }
